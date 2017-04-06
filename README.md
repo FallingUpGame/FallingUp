@@ -1,7 +1,4 @@
-# Falling Up
-## An Interactive Exploration into Alzheimer's Disease
-### A Project By: Christian Hughes, Dylan George, & Katie Kristiansen
----
+# Falling Up ## An Interactive Exploration into Alzheimer's Disease ### A Project By: Christian Hughes, Dylan George, & Katie Kristiansen
 
 ## Game Summary
 In 2015, a group of students in the Kansas State University Anthropology department set out to raise awareness for Alzheimer’s using interactive media. Despite having no prior experience, the team elected to develop a video game. The result of this venture is Falling Up, an interactive exploration into living with Alzheimer’s disease.
