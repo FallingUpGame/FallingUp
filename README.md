@@ -39,9 +39,9 @@ Traverse the halls of Meadowlark Hills in search of forgotten memories. Interact
 
 ### 1.0 Getting Started
 
-Unreal Engine 4.14.3. Future versions should hopefully work.
+_Falling Up_ is built in the [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4). Development requires version 4.14.3 or above, which can be downloaded [here](https://www.unrealengine.com/download).
 
-Download HERE. Clone Repo. Load FallingUpVR.uproject into Unreal Engine.
+To get started, clone this repository and launch the project via the ```FallingUpVR.uproject``` file. If using version control, using [GitHub Desktop](https://desktop.github.com) is highly recommended.
 
 ### 2.0 File & Asset Layout
 
