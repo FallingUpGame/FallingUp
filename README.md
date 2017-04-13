@@ -6,6 +6,12 @@ _Falling Up_ is an interactive story game designed to raise awareness and empath
 
 _Falling Up_ was originally developed by the [KSU Anthropology Department](https://www.k-state.edu/sasw/anth/). We have improved upon the original version, and added support for many different platforms.
 
+### Download Links
+
+|                         Windows PC                         |                             Mac                            |                      Google Cardboard                      |                         Oculus Rift                        |                          HTC Vive                          |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
+| [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+
 ## Game Summary
 _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org). For years, he has lived with Alzheimer's disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
 
@@ -29,6 +35,24 @@ Traverse the halls of Meadowlark Hills in search of forgotten memories. Interact
 | **Pause**                |                Escape or Start button                |                       N/A                      |
 
 ## Developer Documentation
+
+
+### 1.0 Getting Started
+
+Unreal Engine 4.14.3. Future versions should hopefully work.
+
+Download HERE. Clone Repo. Load FallingUpVR.uproject into Unreal Engine.
+
+### 2.0 File & Asset Layout
+
+### 3.0 Gameplay Alterations
+
+#### 3.1 Adjusting Player Movement
+#### 3.2 Adjusting Door Interactions
+#### 3.3 How to Add Memories
+#### 3.4 Modifying Object Interaction Routines
+
+### 4.0 Building _Falling Up_ For Different Platforms
 
 
 ## Testing Procedures
