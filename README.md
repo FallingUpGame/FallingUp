@@ -6,21 +6,30 @@ _Falling Up_ is an interactive story game designed to raise awareness and empath
 
 _Falling Up_ was originally developed by the [KSU Anthropology Department](https://www.k-state.edu/sasw/anth/). We have improved upon the original version, and added support for many different platforms.
 
+## Game Summary
+_Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org). For years, he has lived with Alzheimer's disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
 
-## Game Trailer
+#### Game Trailer
 ![Falling Up Trailer](http://i.imgur.com/7dVxzRE.png)
 
-
-## Game Summary
-_Falling Up_ tells the story of an elderly man living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org), who for years has lived with Alzheimer’s disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
-
+#### Screenshots
 ![Start Screen Screenshot](http://i.imgur.com/L7FRiQd.png)
 ![Apartment Screenshot](http://i.imgur.com/J77QWGn.png)
 
 ## Player Instructions
-ADD TABLE THAT SEPARATES CONTROLS BY PLATFORM. Make it clear that instructions should be placed in game.
+Traverse the halls of Meadowlark Hills in search of forgotten memories. Interact with objects in the environment to reveal details of your past.
+
+
+#### Controls by Platform
+|                          |                Windows/Mac/Oculus Rift               |                Google Cardboard                |
+|:------------------------:|:----------------------------------------------------:|:----------------------------------------------:|
+| **Player Movement**      |         WASD on keyboard or left analog stick        | Hold button while looking in desired direction |
+| **Player View**          | Mouse movement, right analog stick, or HMD movement  |                  HMD movement                  |
+| **Interact with Object** |                     E or A button                    |       Push button while looking at object      |
+| **Pause**                |                Escape or Start button                |                       N/A                      |
 
 ## Developer Documentation
+
 
 ## Testing Procedures
 A comprehensive testing plan is included as:
