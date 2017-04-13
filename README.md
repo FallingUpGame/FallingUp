@@ -9,10 +9,10 @@ _Falling Up_ was originally developed by the [KSU Anthropology Department](https
 ## Game Summary
 _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org). For years, he has lived with Alzheimer's disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
 
-#### Game Trailer
+### Game Trailer
 ![Falling Up Trailer](http://i.imgur.com/7dVxzRE.png)
 
-#### Screenshots
+### Screenshots
 ![Start Screen Screenshot](http://i.imgur.com/L7FRiQd.png)
 ![Apartment Screenshot](http://i.imgur.com/J77QWGn.png)
 
@@ -20,7 +20,7 @@ _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark
 Traverse the halls of Meadowlark Hills in search of forgotten memories. Interact with objects in the environment to reveal details of your past.
 
 
-#### Controls by Platform
+### Controls by Platform
 |                          |                Windows/Mac/Oculus Rift               |                Google Cardboard                |
 |:------------------------:|:----------------------------------------------------:|:----------------------------------------------:|
 | **Player Movement**      |         WASD on keyboard or left analog stick        | Hold button while looking in desired direction |
