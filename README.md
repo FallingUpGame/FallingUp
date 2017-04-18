@@ -8,9 +8,9 @@ _Falling Up_ was originally developed by the [KSU Anthropology Department](https
 
 ### Download Links
 
-|                         Windows PC                         |                             Mac                            |                      Google Cardboard                      |                         Oculus Rift                        |                          HTC Vive                          |
-|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
-| [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+|                         Windows PC                         |                             Mac                            |                      Google Cardboard                      |                         Oculus Rift                        |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
+| [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ## Game Summary
 _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org). For years, he has lived with Alzheimer's disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
@@ -44,6 +44,22 @@ _Falling Up_ is built in the [Unreal Engine](https://www.unrealengine.com/what-i
 To get started, clone this repository and launch the project via the ```FallingUpVR.uproject``` file. If using version control, using [GitHub Desktop](https://desktop.github.com) is highly recommended.
 
 ### 2.0 File & Asset Layout
+
+All the files you will be working with are located in _FallingUp/Content/_
+Inside you will find different folders meant to help organize the different objects used throughout the game. These folders are:
+* Architecture - objects such as doors, windows and pillars
+* Audio - wav audio clips that play for some of the memory objects
+* Blueprints - memory objects and player movement blueprints
+* Fonts - text files used for the start screen
+* Furniture - objects such as couches, chairs, and tables
+* Images - JPG and PNG files that are used as textures/materials for different materials or objects
+* Maps - the two levels in the game (_GroundFloor.umap_ and _Apartment.umap_)
+* Materials - files that are used to add a color or image to different objects
+* Movies - mp4 files that play during some of the memory objects
+* Objects - objects that are not normally considered furniture such as books, paper, cards, and bowls
+* Resources - files used to create the grass outside
+* Textures - files used along side materials to add different color effects to objects
+* Widgets - files used for the start menu and the video player
 
 ### 3.0 Gameplay Alterations
 
