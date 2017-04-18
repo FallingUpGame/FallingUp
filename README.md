@@ -45,7 +45,7 @@ To get started, clone this repository and launch the project via the ```FallingU
 
 ### 2.0 File & Asset Layout
 
-All the files you will be working with are located in _FallingUp/Content/_
+All the files you will be working with are located in _FallingUp/Content/_.
 Inside you will find different folders meant to help organize the different objects used throughout the game. These folders are:
 * Architecture - objects such as doors, windows and pillars
 * Audio - wav audio clips that play for some of the memory objects
