@@ -34,7 +34,7 @@ Developer Documentation is available on the _Falling Up_ [Wiki](https://github.c
 * [Getting Started][getting]
 * [File & Asset Layout][file]
 * [Testing Procedures][test]
-* [Gameplay Alterations][test]
+* [Gameplay Alterations][gameplay]
 
 A running list of **bugs** and **improvements** is available on the [Issues](https://github.com/FallingUpGame/FallingUp/issues) page.
 
@@ -43,7 +43,6 @@ A running list of **bugs** and **improvements** is available on the [Issues](htt
 [file]: https://github.com/FallingUpGame/FallingUp/wiki/File-&-Asset-Layout
 [test]: https://github.com/FallingUpGame/FallingUp/wiki/Testing-Procedures
 [gameplay]: https://github.com/FallingUpGame/FallingUp/wiki/Gameplay-Alterations
-
 
 ---
 
