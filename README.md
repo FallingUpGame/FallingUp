@@ -47,7 +47,7 @@ A running list of **bugs** and **improvements** is available on the [Issues](htt
 ---
 
 ### Game Trailer
-[![Falling Up Trailer](http://i.imgur.com/7dVxzRE.png)](https://www.youtube.com/watch?v=BFuluIy-5QY)
+[![Falling Up Trailer](http://i.imgur.com/7dVxzRE.png)](https://www.youtube.com/watch?v=BFuluIy-5QY){:target="_blank"}
 
 ### Screenshots
 ![Start Screen Screenshot](http://i.imgur.com/L7FRiQd.png)
