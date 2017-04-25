@@ -19,6 +19,7 @@ _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark
 Traverse the halls of Meadowlark Hills in search of forgotten memories. Interact with objects in the environment to reveal details of your past.
 
 ### Controls by Platform
+
 |                          |                Windows/Mac/Oculus Rift               |                Google Cardboard                |
 |:------------------------:|:----------------------------------------------------:|:----------------------------------------------:|
 | **Player Movement**      |         WASD on keyboard or left analog stick        | Hold button while looking in desired direction |
