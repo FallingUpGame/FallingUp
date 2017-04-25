@@ -1,4 +1,4 @@
-# Falling Up
+# [Falling Up](https://fallingupgame.github.io/FallingUp/)
 ### An Interactive Exploration into Alzheimer's Disease
 ##### A Project By: Christian Hughes, Dylan George, & Katie Kristiansen
 
