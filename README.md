@@ -8,9 +8,15 @@ _Falling Up_ was originally developed by the [KSU Anthropology Department](https
 
 ### Download Links
 
+#### Beta
 |                         Windows PC                         |                             Mac                            |                      Google Cardboard                      |                         Oculus Rift                        |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+
+#### Alpha
+|                         Windows PC                         |                             Mac                            |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|
+| [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ## Game Summary
 _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org). For years, he has lived with Alzheimer's disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
