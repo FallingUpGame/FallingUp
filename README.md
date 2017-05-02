@@ -1,4 +1,4 @@
-# Falling Up
+# [Falling Up](https://fallingupgame.github.io/FallingUp/)
 ### An Interactive Exploration into Alzheimer's Disease
 ##### A Project By: Christian Hughes, Dylan George, & Katie Kristiansen
 
@@ -19,6 +19,7 @@ _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark
 Traverse the halls of Meadowlark Hills in search of forgotten memories. Interact with objects in the environment to reveal details of your past.
 
 ### Controls by Platform
+
 |                          |                Windows/Mac/Oculus Rift               |                Google Cardboard                |
 |:------------------------:|:----------------------------------------------------:|:----------------------------------------------:|
 | **Player Movement**      |         WASD on keyboard or left analog stick        | Hold button while looking in desired direction |
@@ -46,9 +47,9 @@ A running list of **bugs** and **improvements** is available on the [Issues](htt
 
 ---
 
-### Game Trailer
+## Game Trailer
 [![Falling Up Trailer](http://i.imgur.com/7dVxzRE.png)](https://www.youtube.com/watch?v=BFuluIy-5QY)
 
-### Screenshots
+## Screenshots
 ![Start Screen Screenshot](http://i.imgur.com/L7FRiQd.png)
 ![Apartment Screenshot](http://i.imgur.com/J77QWGn.png)
