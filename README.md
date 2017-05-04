@@ -12,7 +12,7 @@ _Falling Up_ was originally developed by the [KSU Anthropology Department](https
 
 |                         Windows PC                         |                             Mac                            |                      Google Cardboard                      |                         Oculus Rift                        |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
-| [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| [Version 0.5](http://people.cs.ksu.edu/~cjhughes255/Builds/Falling_Up_Windows_Beta_0.5.zip) | [Version 0.5](http://people.cs.ksu.edu/~cjhughes255/Builds/Falling_Up_Mac_Beta_0.5.zip) | [Version 0.5](http://people.cs.ksu.edu/~cjhughes255/Builds/Falling_Up_Android_Beta_0.5.zip) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 #### Alpha
 
@@ -20,7 +20,7 @@ _Falling Up_ was originally developed by the [KSU Anthropology Department](https
 |:----------------------------------------------------------:|:----------------------------------------------------------:|
 | [Version 0.1](http://people.cs.ksu.edu/~cjhughes255/Builds/FallingUp0.zip) | [Version 0.1](http://people.cs.ksu.edu/~cjhughes255/Builds/FallingUp0Mac.zip) |
 
-* To run the android version you need to first go to [here](https://developer.nvidia.com/codeworks-android) and download Codeworks for Android. Instructions for setting up your android to run the packaged version of our game can be found [here](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/).
+* The Andriod version requires [Codeworks for Andriod](https://developer.nvidia.com/codeworks-android). Setup instructions can be found [here](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/).
 
 ## Game Summary
 _Falling Up_ tells the story of an elderly man (Floyd) living in the [Meadowlark Hills Retirement Community](http://www.meadowlark.org). For years, he has lived with Alzheimer's disease. He relies on the instructions of his wife to perform even the most basic of tasks, and has forgotten much of his past. The player takes the role of this man (Floyd) as he explores Meadowlark Hills, and rediscovers forgotten memories.
