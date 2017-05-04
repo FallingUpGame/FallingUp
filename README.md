@@ -9,11 +9,13 @@ _Falling Up_ was originally developed by the [KSU Anthropology Department](https
 ### Download Links
 
 #### Beta
+
 |                         Windows PC                         |                             Mac                            |                      Google Cardboard                      |                         Oculus Rift                        |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Version 0.5](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 #### Alpha
+
 |                         Windows PC                         |                             Mac                            |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|
 | [Version 0.1](http://people.cs.ksu.edu/~cjhughes255/Builds/FallingUp0.zip) | [Version 0.1](http://people.cs.ksu.edu/~cjhughes255/Builds/FallingUp0Mac.zip) |
